@@ -263,7 +263,7 @@ motel.html
 
 ## OUTPUT
 
-![alt text](madhu/mapapp/static/map.png)
+<img width="1037" height="501" alt="image" src="https://github.com/user-attachments/assets/fd2df6ab-472a-48ae-994d-b678ce0f16e6" />
 
 ![alt text](<Screenshot 2025-10-18 112721.png>)
 
